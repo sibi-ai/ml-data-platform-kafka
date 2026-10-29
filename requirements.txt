@@ -1,0 +1,14 @@
+kafka-python==2.0.2
+google-cloud-bigquery==3.25.0
+pandas==2.2.3
+sqlalchemy==2.0.34
+psycopg2-binary==2.9.9
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.8.2
+mlflow==2.16.2
+great-expectations==0.18.21
+pytest==8.3.2
+python-dotenv==1.0.1
+structlog==24.4.0
+numpy==1.26.4
